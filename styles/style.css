@@ -1,0 +1,14 @@
+div{
+    background-color: rgb(29, 137, 232);
+    color: aliceblue;
+    border: 20px solid deepskyblue;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+h3{
+    border-radius: 10px;
+    
+}
