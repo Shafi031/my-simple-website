@@ -16,3 +16,6 @@ h3{
     background-color: blueviolet;
     border: 20px solid violet;
 }
+li{
+    padding: 0px;
+}
